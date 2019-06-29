@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id = "dateSequenceGenerator"
+          class = " com.example.app.spring.util.DateSequenceGenerator"
+          scope="singleton">
+    <property name= "format" value="yyyyMMdd"/>
+        <property name ="initial" value="10000"/>
+
+        &lt;!&ndash;동적 구성으로 할 때 &ndash;&gt;
+        &lt;!&ndash;어떤 빈즈에 속성이 있어 그것을 set up 해주기 위해서 선언해주는 것. &ndash;&gt;
+    </bean>
+
+
+
+</beans>-->
